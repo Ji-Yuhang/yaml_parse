@@ -1,0 +1,44 @@
+#achieves_queue_send_message: 1
+achieves_queue_cancel_generation: 1
+#achieves_queue_cancel_paid: 1
+#achieves_queue_completed: 1
+#achieves_queue_order_synchronous: 1
+achieves_queue_keywords: 1
+#achieves_queue_gift_bag_expiry: 1
+achieves_queue_refund_online_payment: 1
+achieves_queue_address_location: 1
+achieves_queue_distribute_order: 1
+achieves_salesman_binding_location: 1
+achieves_queue_salesman_order_statistic: 1
+achieves_queue_send_order_sms: 1
+achieves_queue_send_credit_sms: 1
+achieve_order_refund: 1
+achieve_refund_state: 1
+achieves_kfqz: 1
+achieve_fix_order_state: 1
+achieves_warhouse: 1
+achieves_product_queue: 1
+achieve_order_settlement: 1
+
+production:
+  #"achieves_queue_send_message": 2
+  "achieves_queue_cancel_generation": 2
+  #"achieves_queue_cancel_paid": 2
+  #"achieves_queue_completed": 2
+  #"achieves_queue_order_synchronous": 2
+  "achieves_queue_keywords": 2
+  #"achieves_queue_gift_bag_expiry": 2
+  "achieves_queue_refund_online_payment": 2
+  "achieves_queue_address_location": 2
+  "achieves_queue_distribute_order": 2
+  "achieves_salesman_binding_location": 2
+  "achieves_queue_salesman_order_statistic": 2
+  "achieves_queue_send_order_sms": 2
+  "achieves_queue_send_credit_sms": 2
+  "achieve_order_refund": 2
+  "achieve_refund_state": 2
+  "achieves_kfqz": 2
+  "achieve_fix_order_state": 2
+  "achieves_warhouse": 2
+  "achieves_product_queue": 2
+  "achieve_order_settlement": 2
