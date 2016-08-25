@@ -2,12 +2,16 @@ GEM
   remote: https://gems.ruby-china.org/
   specs:
     awesome_print (1.7.0)
+    prettyprint (0.0.1)
+      thor
+    thor (0.19.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   awesome_print
+  prettyprint
 
 BUNDLED WITH
    1.12.5
